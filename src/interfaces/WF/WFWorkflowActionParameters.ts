@@ -104,6 +104,7 @@ interface WFWorkflowActionParameters {
   WFNotificationActionTitle?: string;
   WFNumberActionNumber?: number;
   WFNumberValue?: number;
+  WFOpenInAppIdentifier?: string;
   WFRandomNumberMaximum?: WFSerialization | number;
   WFRandomNumberMinimum?: WFSerialization | number;
   WFRepeatCount?: WFSerialization | number;

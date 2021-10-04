@@ -71,6 +71,7 @@ import matchText from './matchText';
 import nothing from './nothing';
 import number from './number';
 import openApp from './openApp';
+import openIn from './openIn';
 import openInBooks from './openInBooks';
 import openURLs from './openURLs';
 import openURLsInChrome from './openURLsInChrome';
